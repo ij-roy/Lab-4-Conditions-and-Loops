@@ -5,6 +5,13 @@ Created on Fri Sep  1 15:03:54 2023
 @author: LAB
 """
 '''
+1. Take a positive integer N as input and print its table as follows:
+N x 1 = N
+N x 2 = 2N
+......
+N x 20 = 20N
+'''
+'''
 N = int(input("enter a number: "))
 print(N,"x 1 = " , N*1)
 print(N,"x 1 = " , N*2)
