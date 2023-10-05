@@ -4,7 +4,10 @@ Created on Fri Sep  1 16:17:48 2023
 
 @author: LAB
 """
-
+'''
+6. Take a positive integer as input. It may be of any length. Check if it is palindrome or not. Do not
+use any inbuilt reverse functions.
+'''
 n = int(input("enter a number n : "))
 v=0
 
